@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Practicerepo
-=======
-# Practicerepo
->>>>>>> testing
 This is a repo which use to practise git.
 # Guide
 1. Fork this repo.
